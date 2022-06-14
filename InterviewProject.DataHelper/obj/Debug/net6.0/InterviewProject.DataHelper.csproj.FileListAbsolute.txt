@@ -1,0 +1,12 @@
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\bin\Debug\net6.0\InterviewProject.DataHelper.deps.json
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\bin\Debug\net6.0\InterviewProject.DataHelper.dll
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\bin\Debug\net6.0\InterviewProject.DataHelper.pdb
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.csproj.AssemblyReference.cache
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.AssemblyInfoInputs.cache
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.AssemblyInfo.cs
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.csproj.CoreCompileInputs.cache
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.dll
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\refint\InterviewProject.DataHelper.dll
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\InterviewProject.DataHelper.pdb
+D:\NL Interviews\Emburse\Assignment_Emburse\InterviewProject.DataHelper\obj\Debug\net6.0\ref\InterviewProject.DataHelper.dll

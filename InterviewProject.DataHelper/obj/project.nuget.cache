@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBAuzGM0S0U+6/ShB38NSSlg/iMd9h4kVRqe2MVkHV6T968g72lUd+/hjvubRXNXDJBj17R49cMVGc/0wdxyVg==",
+  "success": true,
+  "projectFilePath": "D:\\NL Interviews\\Emburse\\Assignment_Emburse\\InterviewProject.DataHelper\\InterviewProject.DataHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aj16f\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aj16f\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\aj16f\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\aj16f\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
